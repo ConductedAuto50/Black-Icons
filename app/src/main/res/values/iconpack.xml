@@ -2,148 +2,149 @@
 <resources>
     <string-array name="icon_pack" translatable="false">
 		<item>com_android_browser_browseractivity</item>
-<item>accubattery</item>
-<item>airtel</item>
-<item>alexa</item>
-<item>amongus</item>
-<item>ar_zone</item>
-<item>arudito</item>
-<item>assistant</item>
-<item>astroverse</item>
-<item>backdrops</item>
-<item>bitsmart</item>
-<item>bixbyvision</item>
-<item>bosm</item>
-<item>calculator</item>
-<item>calculator_2</item>
-<item>calendar</item>
-<item>calendar_2</item>
-<item>camera</item>
-<item>camera_2</item>
-<item>chess</item>
-<item>chrome</item>
-<item>classroom</item>
-<item>clock</item>
-<item>compass</item>
-<item>com_android_browser_browseractivity</item>
-<item>contacts</item>
-<item>contacts_2</item>
-<item>countdown</item>
-<item>digilocker</item>
-<item>discord</item>
-<item>downloads</item>
-<item>drive</item>
-<item>duo</item>
-<item>duolingo</item>
-<item>duolingo_2</item>
-<item>earth</item>
-<item>edge</item>
-<item>enhancex</item>
-<item>espncricinfo</item>
-<item>files</item>
-<item>files_2</item>
-<item>flags</item>
-<item>galaxy_store</item>
-<item>gallery</item>
-<item>gallery_2</item>
-<item>gamecenter</item>
-<item>gboard</item>
-<item>gmail</item>
-<item>google</item>
-<item>googlechat</item>
-<item>googlelens</item>
-<item>googleone</item>
-<item>gpay</item>
-<item>hcr</item>
-<item>home</item>
-<item>huawei_health</item>
-<item>huawei_health_2</item>
-<item>icons</item>
-<item>infobits</item>
-<item>instagram</item>
-<item>internet</item>
-<item>internet_2</item>
-<item>jbl</item>
-<item>jiocinema</item>
-<item>jiotv</item>
-<item>lawnchair</item>
-<item>link_windows</item>
-<item>linkedin</item>
-<item>macrodroid</item>
-<item>magnifier</item>
-<item>maps</item>
-<item>meet</item>
-<item>members</item>
-<item>messages</item>
-<item>messages_2</item>
-<item>mimovie</item>
-<item>miremote</item>
-<item>moodle</item>
-<item>ms_launcher</item>
-<item>music</item>
-<item>mygalaxy</item>
-<item>myjio</item>
-<item>ndtv</item>
-<item>nicecatch</item>
-<item>notes</item>
-<item>notes_2</item>
-<item>nova</item>
-<item>novaprime</item>
-<item>office</item>
-<item>office_2</item>
-<item>onedrive</item>
-<item>onehandop</item>
-<item>paymini</item>
-<item>phone</item>
-<item>phone_2</item>
-<item>phonepe</item>
-<item>photos</item>
-<item>picsart</item>
-<item>pinterest</item>
-<item>play_games</item>
-<item>play_games_2</item>
-<item>playstore</item>
-<item>quotes</item>
-<item>radio</item>
-<item>reddit</item>
-<item>reddit_2</item>
-<item>reminder</item>
-<item>samsung_health</item>
-<item>scanner</item>
-<item>schoolplanner</item>
-<item>screenrec</item>
-<item>security</item>
-<item>servandfeed</item>
-<item>settings</item>
-<item>shareme</item>
-<item>sim</item>
-<item>skype</item>
-<item>slowly</item>
-<item>smartthings</item>
-<item>spaceflight</item>
-<item>speedtest</item>
-<item>splitwise</item>
-<item>spotify</item>
-<item>ssms</item>
-<item>studydeck</item>
-<item>stumbleguys</item>
-<item>suapp</item>
-<item>swiftkey</item>
-<item>telegram</item>
-<item>todo</item>
-<item>twoplayergames</item>
-<item>uber</item>
-<item>unified_remote</item>
-<item>voicerec</item>
-<item>wear</item>
-<item>webtoon</item>
-<item>whatsapp</item>
-<item>wipro</item>
-<item>wordle</item>
-<item>xrecorder</item>
-<item>yahoo</item>
-<item>youtube</item>
-<item>zedge</item>
-<item>zoom</item>
+		<item>accubattery</item>
+		<item>airtel</item>
+		<item>alexa</item>
+		<item>amongus</item>
+		<item>ar_zone</item>
+		<item>arudito</item>
+		<item>assistant</item>
+		<item>astroverse</item>
+		<item>backdrops</item>
+		<item>bitsmart</item>
+		<item>bixbyvision</item>
+		<item>bosm</item>
+		<item>calculator</item>
+		<item>calculator_2</item>
+		<item>calendar</item>
+		<item>calendar_2</item>
+		<item>camera</item>
+		<item>camera_2</item>
+		<item>chess</item>
+		<item>chrome</item>
+		<item>classroom</item>
+		<item>clock</item>
+		<item>compass</item>
+		<item>com_android_browser_browseractivity</item>
+		<item>contacts</item>
+		<item>contacts_2</item>
+		<item>countdown</item>
+		<item>digilocker</item>
+		<item>discord</item>
+		<item>downloads</item>
+		<item>drive</item>
+		<item>duo</item>
+		<item>duolingo</item>
+		<item>duolingo_2</item>
+		<item>earth</item>
+		<item>edge</item>
+		<item>enhancex</item>
+		<item>espncricinfo</item>
+		<item>files</item>
+		<item>files_2</item>
+		<item>flags</item>
+		<item>galaxy_store</item>
+		<item>gallery</item>
+		<item>gallery_2</item>
+		<item>gamecenter</item>
+		<item>gboard</item>
+		<item>gmail</item>
+		<item>google</item>
+		<item>googlechat</item>
+		<item>googlelens</item>
+		<item>googleone</item>
+		<item>gpay</item>
+		<item>hcr</item>
+		<item>home</item>
+		<item>hpquickdrop</item>
+		<item>huawei_health</item>
+		<item>huawei_health_2</item>
+		<item>icons</item>
+		<item>infobits</item>
+		<item>instagram</item>
+		<item>internet</item>
+		<item>internet_2</item>
+		<item>jbl</item>
+		<item>jiocinema</item>
+		<item>jiotv</item>
+		<item>lawnchair</item>
+		<item>link_windows</item>
+		<item>linkedin</item>
+		<item>macrodroid</item>
+		<item>magnifier</item>
+		<item>maps</item>
+		<item>meet</item>
+		<item>members</item>
+		<item>messages</item>
+		<item>messages_2</item>
+		<item>mimovie</item>
+		<item>miremote</item>
+		<item>moodle</item>
+		<item>ms_launcher</item>
+		<item>music</item>
+		<item>mygalaxy</item>
+		<item>myjio</item>
+		<item>ndtv</item>
+		<item>nicecatch</item>
+		<item>notes</item>
+		<item>notes_2</item>
+		<item>nova</item>
+		<item>novaprime</item>
+		<item>office</item>
+		<item>office_2</item>
+		<item>onedrive</item>
+		<item>onehandop</item>
+		<item>paymini</item>
+		<item>phone</item>
+		<item>phone_2</item>
+		<item>phonepe</item>
+		<item>photos</item>
+		<item>picsart</item>
+		<item>pinterest</item>
+		<item>play_games</item>
+		<item>play_games_2</item>
+		<item>playstore</item>
+		<item>quotes</item>
+		<item>radio</item>
+		<item>reddit</item>
+		<item>reddit_2</item>
+		<item>reminder</item>
+		<item>samsung_health</item>
+		<item>scanner</item>
+		<item>schoolplanner</item>
+		<item>screenrec</item>
+		<item>security</item>
+		<item>servandfeed</item>
+		<item>settings</item>
+		<item>shareme</item>
+		<item>sim</item>
+		<item>skype</item>
+		<item>slowly</item>
+		<item>smartthings</item>
+		<item>spaceflight</item>
+		<item>speedtest</item>
+		<item>splitwise</item>
+		<item>spotify</item>
+		<item>ssms</item>
+		<item>studydeck</item>
+		<item>stumbleguys</item>
+		<item>suapp</item>
+		<item>swiftkey</item>
+		<item>telegram</item>
+		<item>todo</item>
+		<item>twoplayergames</item>
+		<item>uber</item>
+		<item>unified_remote</item>
+		<item>voicerec</item>
+		<item>wear</item>
+		<item>webtoon</item>
+		<item>whatsapp</item>
+		<item>wipro</item>
+		<item>wordle</item>
+		<item>xrecorder</item>
+		<item>yahoo</item>
+		<item>youtube</item>
+		<item>zedge</item>
+		<item>zoom</item>
 	</string-array>
 </resources>
