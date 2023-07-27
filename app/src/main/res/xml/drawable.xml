@@ -9,6 +9,7 @@
     <item drawable="arudito" />
     <item drawable="assistant" />
     <item drawable="astroverse" />
+    <item drawable="astrofy" />
     <item drawable="backdrops" />
     <item drawable="bitsmart" />
     <item drawable="bixbyvision" />
@@ -144,5 +145,6 @@
     <item drawable="yahoo" />
     <item drawable="youtube" />
     <item drawable="zedge" />
+    <item drawable="zomato" />
     <item drawable="zoom" />
 </resources>
