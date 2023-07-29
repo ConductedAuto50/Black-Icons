@@ -270,6 +270,8 @@
 
     <item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="skype"/>
 
+    <item component="ComponentInfo{com.Slack/slack.features.home.HomeActivity}" drawable="slack"/>
+
     <item component="ComponentInfo{com.samsung.android.oneconnect/.ui.scmain.SCMainActivity}" drawable="smartthings"/>
     <item component="ComponentInfo{com.samsung.android.oneconnect/.ui.legalinfo.LegalInfoCheckerActivity}" drawable="smartthings"/>
     <item component="ComponentInfo{com.samsung.android.oneconnect/.ui.intro.IntroActivity}" drawable="smartthings"/>
