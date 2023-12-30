@@ -21,6 +21,7 @@
 		<item>calendar_2</item>
 		<item>camera</item>
 		<item>camera_2</item>
+		<item>camera_3</item>
 		<item>chess</item>
 		<item>chrome</item>
 		<item>classroom</item>
@@ -43,10 +44,12 @@
 		<item>espncricinfo</item>
 		<item>files</item>
 		<item>files_2</item>
+		<item>files_3</item>
 		<item>flags</item>
 		<item>galaxy_store</item>
 		<item>gallery</item>
 		<item>gallery_2</item>
+		<item>gallery_3</item>
 		<item>gamecenter</item>
 		<item>gboard</item>
 		<item>gmail</item>
@@ -62,7 +65,7 @@
 		<item>huawei_health_2</item>
 		<item>icons</item>
 		<item>infobits</item>
-		<item>instagram</item>
+		<item>instagram3</item>
 		<item>internet</item>
 		<item>internet_2</item>
 		<item>jbl</item>
@@ -83,6 +86,7 @@
 		<item>moodle</item>
 		<item>ms_launcher</item>
 		<item>music</item>
+		<item>music_2</item>
 		<item>mygalaxy</item>
 		<item>myjio</item>
 		<item>ndtv</item>
@@ -117,6 +121,7 @@
 		<item>security</item>
 		<item>servandfeed</item>
 		<item>settings</item>
+		<item>settings_2</item>
 		<item>shareme</item>
 		<item>sim</item>
 		<item>skype</item>
@@ -149,5 +154,38 @@
 		<item>zedge</item>
 		<item>zomato</item>
 		<item>zoom</item>
+		<item>threads</item>
+		<item>whatsappb</item>
+		<item>truecaller</item>
+		<item>messenger</item>
+		<item>primevideo</item>
+		<item>twitter</item>
+		<item>x</item>
+		<item>snapchat</item>
+		<item>snapchat_3</item>
+		<item>snapchat_4</item>
+		<item>outlook</item>
+		<item>facebook</item>
+		<item>docs</item>
+		<item>slides</item>
+		<item>sheets</item>
+		<item>waze</item>
+		<item>waze_2</item>
+		<item>volumestyles</item>
+		<item>commute</item>
+		<item>warp</item>
+		<item>geekbench6</item>
+		<item>gaminghub</item>
+		<item>marvelight</item>
+		<item>minimetro</item>
+		<item>googlelens_2</item>
+		<item>rar</item>
+		<item>pixelsearch</item>
+		<item>onefootball</item>
+		<item>sleepcycle</item>
+		<item>sai</item>
+		<item>sofascore</item>
+		<item>drdriving</item>
+		<item>two048</item>
 	</string-array>
 </resources>
