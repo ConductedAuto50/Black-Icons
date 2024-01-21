@@ -350,6 +350,7 @@
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat_4"/>
 
     <item component="ComponentInfo{com.sofascore.results/.main.StartActivity}" drawable="sofascore"/>
+    <item component="ComponentInfo{com.sofascore.results/.main.start.StartActivity}" drawable="sofascore"/>
 
     <item component="ComponentInfo{com.StefMorojna.SpaceflightSimulator/com.unity3d.player.UnityPlayerActivity}" drawable="spaceflight"/>
 
