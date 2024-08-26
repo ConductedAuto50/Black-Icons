@@ -186,4 +186,29 @@
     <item drawable="sofascore"/>
     <item drawable="drdriving"/>
     <item drawable="two048"/>
+    <item drawable="soundassistant"/>
+    <item drawable="spacedesk"/>
+    <item drawable="speedometer"/>
+    <item drawable="themepark"/>
+    <item drawable="tips"/>
+    <item drawable="galaxy_store_2"/>
+    <item drawable="gameface"/>
+    <item drawable="github"/>
+    <item drawable="goodguardians"/>
+    <item drawable="goodlock"/>
+    <item drawable="infinityloop"/>
+    <item drawable="keyscafe"/>
+    <item drawable="kwgt"/>
+    <item drawable="mcdonalds"/>
+    <item drawable="netflix"/>
+    <item drawable="protonvpn"/>
+    <item drawable="rewards"/>
+    <item drawable="samsungpass"/>
+    <item drawable="smartswitch"/>
+    <item drawable="smartthings_2"/>
+    <item drawable="adblock"/>
+    <item drawable="astrofy_2"/>
+    <item drawable="birthdays"/>
+    <item drawable="cameraassistant"/>
+
 </resources>

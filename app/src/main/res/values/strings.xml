@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Icons</string>
+    <string name="app_name">Midnight Noir</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">Icons</string>
-    <string name="second_fragment_label">Still Icons</string>
+    <string name="first_fragment_label">Midnight Noir</string>
+    <string name="second_fragment_label">Nothing Here Yet</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">This app applies black icons to your launcher. \n\nChoose Icons as your icon pack.</string>
+    <string name="hello_first_fragment">This app applies elegant black icons to your launcher. \n\nChoose Midnight Noir as your icon pack.</string>
     <string name="hello_second_fragment">Nothing to see here.</string>
 </resources>
